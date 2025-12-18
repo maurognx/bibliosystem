@@ -1,0 +1,1 @@
+ALTER TABLE books ADD COLUMN cover_path VARCHAR(255) NULL;
